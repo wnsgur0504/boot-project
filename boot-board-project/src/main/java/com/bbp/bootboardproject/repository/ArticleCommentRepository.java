@@ -1,7 +1,6 @@
 package com.bbp.bootboardproject.repository;
 
 import com.bbp.bootboardproject.domain.ArticleComment;
-import com.bbp.bootboardproject.domain.QArticle;
 import com.bbp.bootboardproject.domain.QArticleComment;
 import com.querydsl.core.types.dsl.DateTimeExpression;
 import com.querydsl.core.types.dsl.StringExpression;
